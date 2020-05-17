@@ -1,5 +1,8 @@
 .DS_*
+.cache
+
 *.log
+*.lock
 logs
 **/*.backup.*
 **/*.back.*
@@ -12,3 +15,5 @@ bower_components
 psd
 thumb
 sketch
+
+dist
